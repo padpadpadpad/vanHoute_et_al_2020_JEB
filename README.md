@@ -8,7 +8,7 @@ DOI of paper:
 
 DOI of preprint: https://doi.org/10.1101/838110
 
-DOI of final analyses and datasets: 
+DOI of final analyses and datasets: https://doi.org/10.5281/zenodo.4155300
 
 Link to raw sequencing files: 
 
