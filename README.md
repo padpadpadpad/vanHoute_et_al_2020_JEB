@@ -1,16 +1,16 @@
 # Analyses and data of:
 
-_van Houte et al. (2020) Evolution of diversity explains the impact of pre-adaptation of a focal species on the structure of a natural microbial community. Journal of Evolutionary Biology_ 
+_van Houte et al. (2020) Compost spatial heterogeneity promotes evolutionary diversification of a bacterium. Journal of Evolutionary Biology_ 
 
 **If you would like access to the paper and do not have it, please email me on d.padfield@exeter.ac.uk**
 
-DOI of paper:
+DOI of paper: https://doi.org/10.1111/jeb.13722
 
 DOI of preprint: https://doi.org/10.1101/838110
 
 DOI of final analyses and datasets: https://doi.org/10.5281/zenodo.4155300
 
-Link to raw sequencing files: 
+Link to raw sequencing files: https://www.ebi.ac.uk/ena/browser/view/PRJEB41017
 
 ### Outline
 
